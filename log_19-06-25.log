@@ -1,0 +1,14 @@
+[2025-06-19 18:08:06] Error al leer Excel en sesión 'ExcelBase1': [Errno 2] No such file or directory: 'D:\\Proyectos\\BuscarClientesBase.xlsx'
+[2025-06-19 18:08:06] Error al leer Excel en sesión 'Plantillas': [Errno 2] No such file or directory: 'D:\\Proyectos\\BuscarClientesBase.xlsx'
+[2025-06-19 18:09:35] Error al leer Excel en sesión 'ExcelBase1': [Errno 2] No such file or directory: 'D:\\Proyectos\\BuscarClientesBase.xlsx'
+[2025-06-19 18:09:35] Error al leer Excel en sesión 'Plantillas': [Errno 2] No such file or directory: 'D:\\Proyectos\\BuscarClientesBase.xlsx'
+[2025-06-19 18:10:16] Error al leer Excel en sesión 'ExcelBase1': [Errno 2] No such file or directory: 'D:\\Proyectos\\BuscarClientesBase.xlsx'
+[2025-06-19 18:10:16] Error al leer Excel en sesión 'Plantillas': [Errno 2] No such file or directory: 'D:\\Proyectos\\BuscarClientesBase.xlsx'
+[2025-06-19 21:57:30] Error al leer Excel en sesión 'ExcelBase1': "There is no item named '[Content_Types].xml' in the archive"
+[2025-06-19 21:57:30] Error al leer Excel en sesión 'Plantillas': "There is no item named '[Content_Types].xml' in the archive"
+[2025-06-19 22:26:32] Error al leer Excel en sesión 'ExcelBase1': "There is no item named '[Content_Types].xml' in the archive"
+[2025-06-19 22:26:32] Error al leer Excel en sesión 'Plantillas': "There is no item named '[Content_Types].xml' in the archive"
+[2025-06-19 23:18:55] Error al leer Excel en sesión 'ExcelBase1': "There is no item named '[Content_Types].xml' in the archive"
+[2025-06-19 23:18:55] Error al leer Excel en sesión 'Plantillas': "There is no item named '[Content_Types].xml' in the archive"
+[2025-06-19 23:19:21] Error al leer Excel en sesión 'ExcelBase1': "There is no item named '[Content_Types].xml' in the archive"
+[2025-06-19 23:19:21] Error al leer Excel en sesión 'Plantillas': "There is no item named '[Content_Types].xml' in the archive"
